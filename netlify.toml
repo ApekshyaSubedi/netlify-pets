@@ -1,7 +1,4 @@
 [build]
   functions = "netlify/functions"
 
-[dev]
-  [dev.https]
-    certFile = "cert.pem"
-    keyFile = "key.pem"
+git add
